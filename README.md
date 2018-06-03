@@ -1,6 +1,8 @@
 ## Spring Boot Consul 
-This project demonstrated Spring Boot micro-service registry, roll-over start & auto recovery
+This project demonstrated Spring Boot micro-service auto registry, roll-over start & auto recovery
 from fail over
+
+In this project service-a calls service-b preodically using Feign client
 
 ### Instructions to setup
 
